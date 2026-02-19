@@ -264,6 +264,17 @@
       },
       "description": "Yoo Payments API Gateway adalah sebuah layanan API RESTFUL pembayaran online.",
       "authentication": "API KEY"
-    }
+    },
+    {
+      "apiName": "API Harga Emas/Logam Mulia (Antam, UBS, Emasku, Emaskita, Pegadaian, dll)",
+      "status": true,
+      "documentationUrl": "https://emas.maulanar.my.id/docs",
+      "developer": {
+        "name": "MR Labs",
+        "profileUrl": "https://maulanar.my.id"
+      },
+      "description": "API untuk mengecek harga emas/logam mulia dari berbagai brand yang menampilkan info harga beli/jual.",
+      "authentication": "API KEY"
+    },
   ]
 }
