@@ -264,6 +264,17 @@
       },
       "description": "Yoo Payments API Gateway is a RESTful API service for online payments.",
       "authentication": "API KEY"
-    }
+    },
+    {
+      "apiName": "API Gold Price/Logam Mulia (Antam, UBS, Emasku, Emaskita, Pegadaian, etc)",
+      "status": true,
+      "documentationUrl": "https://emas.maulanar.my.id/docs",
+      "developer": {
+        "name": "MR Labs",
+        "profileUrl": "https://maulanar.my.id"
+      },
+      "description": "API to get current price of gold from many brands in Indonesia.",
+      "authentication": "API KEY"
+    },
   ]
 }
